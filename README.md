@@ -1,16 +1,23 @@
-## Hi there 👋
+## Bryan Zamora - Portfolio
 
-<!--
-**BryanZamora871/bryanzamora871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Statement
 
-Here are some ideas to get you started:
+My name is Bryan Zamora.I am a motivated SOC Analyst with an eagerness to develop expertise in threat detection, incident response, and network security. Skilled in incident detection, log analysis, and network monitoring using tools such as Splunk and Wireshark. My journey into cybersecurity is driven by a commitment to protecting organizational assets and a curiosity for tackling modern-day cyber threats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently, I completed the CompTIA Security+ certification as well as my Cybersecurity Bootcamp Program certification. 
+
+## Skills Obtained
+* Network Communication
+* Command-line Interface, SQL, Bash, Linux
+* Network Architecture
+* Security Information and Event Management (SIEM): Splunk
+* Packet Analyzer
+
+## Tools
+* WireShark
+* Tcpdump
+* Linux OS
+* Splunk
+* Suricata
+* Java
+* Python
