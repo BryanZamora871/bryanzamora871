@@ -1,4 +1,4 @@
-## Bryan Zamora - Portfolio
+# Bryan Zamora - Portfolio
 
 ## Professional Statement
 
