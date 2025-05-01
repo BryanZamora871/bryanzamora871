@@ -56,7 +56,9 @@ Syntax breakdown:
 
   I verified that the patient files were extracted to the `patient_search directory`, then I ran `ls -l patient_search/epscript/patients`.
 
+![image alt](https://github.com/BryanZamora871/bryanzamora871/blob/main/Sceerenshots/Screenshot%202025-05-01%20142731.png?raw=true)
 
+In order to view a specific patient directory and file information contained within the archive I would run this an example `grep -R "Mark,Lopez" epscript/`
 
 
   
